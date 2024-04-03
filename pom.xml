@@ -10,7 +10,7 @@
     <version>2.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>CapeDwarf Blue</name>
-    <url>http://www.jboss.org/capedwarf</url>
+    <url>https://www.jboss.org/capedwarf</url>
     <description>CapeDwarf Build</description>
 
     <modules>
@@ -244,7 +244,7 @@
         <repository>
             <id>datanucleus</id>
             <name>Datanucleus Repository</name>
-            <url>http://www.datanucleus.org/downloads/maven2</url>
+            <url>https://www.datanucleus.org/downloads/maven2</url>
             <layout>default</layout>
             <releases>
                 <enabled>true</enabled>
@@ -254,7 +254,7 @@
         <repository>
             <id>google-api</id>
             <name>Google API Repository</name>
-            <url>http://mavenrepo.google-api-java-client.googlecode.com/hg/</url>
+            <url>https://mavenrepo.google-api-java-client.googlecode.com/hg/</url>
             <layout>default</layout>
             <releases>
                 <enabled>true</enabled>
